@@ -1,11 +1,11 @@
 ___
-![BDStokz_wall](someAssets/remove_bg.png)
+![white-cat-tech_wall](someAssets/remove_bg.png)
 ___
 
 
 # BDStokz - Your Ultimate Stock Trading Platform
 
-Welcome to BDStokz, a cutting-edge stock trading platform designed to provide an immersive and efficient trading experience. BDStokz is your one-stop solution for all your stock trading needs, offering a wide range of features to help you make informed decisions and maximize your investment potential.
+Welcome to white-cat-tech, a cutting-edge stock trading platform designed to provide an immersive and efficient trading experience. white-cat-tech is your one-stop solution for all your stock trading needs, offering a wide range of features to help you make informed decisions and maximize your investment potential.
 
 
 ## About BDStokz
@@ -108,9 +108,9 @@ npm install dotenv
     node index.js
    ```
 
-3. Open any browser and go to this link [login](http://localhost:3000/BdStokz_main/login/login.html)
+3. Open any browser and go to this link [login](http://localhost:3000/BDStokz/login/login.html)
 
-4. Sign up for a BDStokz account to access all our features or you can use the following dummy credentials
+4. Sign up for a white-cat-tech account to access all our features or you can use the following dummy credentials
    listed [here](/passwords.md)
 
 5. Start trading!!!
@@ -145,12 +145,12 @@ npm install dotenv
 
 ## Contact Us
 
-Have questions or need assistance? We're here to help. Feel free to contact our support team at [jahinabrar5@gmail.com](mailto:jahinabrar5@gmail.com).
+Have questions or need assistance? We're here to help. Feel free to contact our support team at [rleyayna@digiwr.com](mailto:rleyayna@digiwr.com).
 
 ## Disclaimer
 
-BDStokz is a college project and not intended for actual stock trading. Use it for educational and experimental purposes only.
+white-cat-tech is a college project and not intended for actual stock trading. Use it for educational and experimental purposes only.
 
-⭐ <a class="github-button" href="https://github.com/mrtaz77/BDStokz" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star mrtaz77/BDStokz on GitHub">Star Our Repository</a>
+⭐ <a class="github-button" href="https://github.com/white-cat-tech/BDStokz" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star white-cat-tech/BDStokz on GitHub">Star Our Repository</a>
 
 
