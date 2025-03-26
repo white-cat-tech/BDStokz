@@ -49,7 +49,7 @@ BDStokz is a comprehensive stock trading website created as a college project. I
 Clone the repository using following commmand
 
 ```bash
-git clone https://github.com/mrtaz77/BdStockz.git
+git clone https://github.com/white-cat-tech/BdStockz.git
 ```
 
  ### Initialize the Database 
